@@ -5,3 +5,4 @@ __pycache__/
 *.difypkg
 .gitignore
 .difyignore
+.git/
