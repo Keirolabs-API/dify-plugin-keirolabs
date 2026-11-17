@@ -2,6 +2,8 @@ version: 0.0.1
 type: plugin
 author: "keirolabs"
 name: keirolabs
+repo: https://github.com/Keirolabs-API/dify-plugin-keirolabs
+contact: https://www.keirolabs.cloud/support
 label:
   en_US: Keirolabs
   zh_Hans: Keirolabs
